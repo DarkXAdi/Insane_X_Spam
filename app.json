@@ -9,8 +9,8 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/MrRizoel",
-  "website": "https://github.com/RiZoeLX",
+  "repository": "https://github.com/DarkXAdi/Insane_X_Spam",
+  "website": "https://github.com/DarkXAdi/Insane_X_Spam",
   "success_url": "https://t.me/RiZoeLX",
   "env": {
              "API_ID": {
