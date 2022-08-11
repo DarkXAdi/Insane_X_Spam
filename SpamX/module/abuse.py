@@ -15,7 +15,7 @@ async def abuse(client: Client, msg: Message):
 
 
 add_command_help("Abuse",)
-    [
+    
         [".abuse", "To Abuse Someone."],
-    ],
+    
 
