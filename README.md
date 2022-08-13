@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SpamX/RiZoeLX.png" alt="RiZoeLXSpam Logo">
+  <img src="https://te.legra.ph/file/a1b48d6d39e064888f29c.jpg" alt="RiZoeLXSpam Logo">
 </p>
 <h1 align="center">
   <b>• SᴘᴀᴍX •</b>
