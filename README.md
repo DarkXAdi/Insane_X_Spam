@@ -17,7 +17,7 @@
 - [x] Raid | Dm Riad
 - [x] Profile Change cmds
 - [x] Broadcast Cmd
-
+- [x] Maa Chod Degi Soam id Bro
 ----
 
 <h3 align="center"> • Deployment • </h3>
