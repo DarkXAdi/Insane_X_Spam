@@ -18,7 +18,7 @@
 - [x] Profile Change cmds
 - [x] Broadcast Cmd
 - [x] Maa Chod Degi Spam id Bro
-- [x] Developed By @Insane_X_Owner
+- [x] Developed By Adi,Prince 
 ----
 
 <h3 align="center"> • Deployment • </h3>
