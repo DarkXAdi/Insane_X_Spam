@@ -7,7 +7,7 @@
 
 ----
 
-<h4> SpamX Is A Pyrogram Based Spam Bots For Telegram With Many Features </h4>
+<h4> Insane X Spam Is A Pyrogram Based Spam Bots For Telegram With Many Features </h4>
 <br>
 <h3 align="center"> Features °</h3>
 
@@ -31,7 +31,7 @@
 
 <h4> Local Hosting </h4>
 
-<i> First Fork The [Repo](https://github.com/RiZoeLX/SpamX) </i>
+<i> First Fork The [Repo](https://github.com/DarkXAdi/Insane_X_Spam) </i>
 <br>
 <i> Now Rename semple.env as .env And Fill Your Values </i>
 
@@ -61,8 +61,8 @@
 
 <h3 align="center"> Support: </h3>
 
-  * <i> Channel </i>: [@RiZoeLX](https://t.me/RiZoeLX) <br>
-  * <i> Support </i>: [@DNHxHELL](https://t.me/DNHxHELL)
+  * <i> Channel </i>: [@Insane_X_Fights](https://t.me/Insane_X_Fights) <br>
+  * <i> Support </i>: [@Insane_X_Owner](https://t.me/Insane_X_Owner)
 
 ----
 
