@@ -17,7 +17,8 @@
 - [x] Raid | Dm Riad
 - [x] Profile Change cmds
 - [x] Broadcast Cmd
-- [x] Maa Chod Degi Soam id Bro
+- [x] Maa Chod Degi Spam id Bro
+- [x] Developed By @Insane_X_Owner
 ----
 
 <h3 align="center"> • Deployment • </h3>
