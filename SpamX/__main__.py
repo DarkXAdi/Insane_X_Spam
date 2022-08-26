@@ -92,7 +92,7 @@ if RiZoeL20:
     RiZoeL20.join_chat("RiZoeLX")
     RiZoeL20.join_chat("DNHxHELL")
 
-print("Your Spam Bots Successfully Deployed ✅")
-print("Visit -! @RiZoeLX")
+print("Your Spam Id's Successfully Deployed ✅")
+print("Visit -! @Invisible_hu_bhai")
 
 idle()
